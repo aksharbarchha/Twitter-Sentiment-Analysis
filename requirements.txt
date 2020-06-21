@@ -1,0 +1,13 @@
+There are three requirements to this project viz.
+
+1)Tweepy
+2)TextBlob
+3)Matplotlib
+
+These all requiremnts can be installed by : 
+
+1)pip intall tweepy
+
+2)pip install textblob
+
+3)pip install matplotlib
