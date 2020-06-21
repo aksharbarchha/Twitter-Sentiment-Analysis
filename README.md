@@ -36,3 +36,7 @@ Once you have created an app on twitter and installed all the dependencies by ru
 * tweepy
 * textblob
 * matplotlib
+
+## Output
+
+![Image](https://github.com/aksharbarchha/Twitter-Sentiment-Analysis/blob/master/output.png)
